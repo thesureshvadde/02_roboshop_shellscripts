@@ -1,0 +1,15 @@
+## To run this folder
+
+Create a linux server 
+assign ec2 full access role to it so that it can create server 
+create Route53 Hosted zone 
+clone roboshop.sh form 01_shell_scripts
+sh roboshop.sh
+Login to each server clone repo and run scripts
+git clone  https://github.com/thesureshvadde/02_roboshop_shellscripts.git 
+sh catalogue.sh
+.
+.
+.
+.
+etc
